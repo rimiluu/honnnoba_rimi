@@ -1,3 +1,22 @@
-body { ... }
-h1 { ... }
-img { ... }
+body {
+            font-family: "Yu Gothic", "游ゴシック体", "YuGothic", "游ゴシック", sans-serif;
+            line-height: 1.8;
+      }
+h1 {
+      text-align: right; 
+      padding-right: 50px; 
+      font-size: 200pt; 
+      color: #CFCFCF;
+    }
+h2{
+  text-align: right; 
+  padding-right: 50px; 
+  font-size: 100pt; 
+  color: #CFCFCF;
+}
+p{
+  text-align: center; 
+  font-size: 38pt; 
+  color: #000000;
+  line-height: 60px;
+}
