@@ -22,3 +22,12 @@ p{
 .logo {
     text-align: center;
 }
+button {
+    margin: 20px auto;        
+    display: block;       
+    color: #ffffff;   
+    background-color: #E68C87;
+    border: none;    
+    border-radius: 20px;  
+    padding: 10px 24px;    
+}
