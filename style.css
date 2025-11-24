@@ -23,11 +23,12 @@ p{
     text-align: center;
 }
 button {
-    margin: 20px auto;        
-    display: block;       
+    margin: 40px auto;
+    display: block;
     color: #ffffff;   
-    background-color: #E68C87;
-    border: none;    
+    background-color: #E68C87; 
+    border: none;
     border-radius: 20px;  
-    padding: 10px 24px;    
-}
+    font-size: 24px;     
+    padding: 20px 44px; 
+}  
